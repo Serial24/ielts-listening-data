@@ -16030,7 +16030,7 @@
             "item_qids": [
               4
             ],
-            "image": "/resource/exam/ielts/image/a1/a1t3l1.jpg"
+            "image": "https://raw.githubusercontent.com/Serial24/ielts-images/main/resource/exam/ielts/image/a1/a1t3l1.jpg"
           }
         },
         {
@@ -60510,7 +60510,7 @@
                 }
               }
             ],
-            "image": "/resource/exam/ielts/image/a1/a1t3l4.jpg"
+            "image": "https://raw.githubusercontent.com/Serial24/ielts-images/main/resource/exam/ielts/image/a1/a1t3l4.jpg"
           }
         }
       ]
