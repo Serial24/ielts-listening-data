@@ -14776,7 +14776,7 @@
               4,
               5
             ],
-            "image": "/resource/exam/ielts/image/a3/a3t4l1.jpg"
+            "image": "https://raw.githubusercontent.com/Serial24/ielts-images/main/resource/exam/ielts/image/a3/a3t4l1.jpg"
           }
         },
         {
@@ -56054,7 +56054,7 @@
             "item_qids": [
               39
             ],
-            "image": "/resource/exam/ielts/image/a3/a3t4l4-1.jpg"
+            "image": "https://raw.githubusercontent.com/Serial24/ielts-images/main/resource/exam/ielts/image/a3/a3t4l4-1.jpg"
           }
         },
         {
@@ -56170,7 +56170,7 @@
             "item_qids": [
               40
             ],
-            "image": "/resource/exam/ielts/image/a3/a3t4l4-2.jpg"
+            "image": "https://raw.githubusercontent.com/Serial24/ielts-images/main/resource/exam/ielts/image/a3/a3t4l4-2.jpg"
           }
         }
       ]
